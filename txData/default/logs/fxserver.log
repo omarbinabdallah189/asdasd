@@ -1,0 +1,135 @@
+║             TXADMIN║ ================================================================
+║             TXADMIN║ ======== [22216] FXServer Starting - ١١‏/٢‏/١٤٤٧ هـ في ٥:١٧:٥٨ ص
+║             TXADMIN║ ================================================================
+[                 cmd] No such config file: resources/vMenu/permissions.cfg
+[           resources] Scanning resources.
+[           resources] Found 3 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v8.0.1 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[      net-tcp-server] Listening on socket failed - libuv error EADDRINUSE.
+[      net-tcp-server] error on connection: address already in use
+[ citizen-server-impl] Error: Could not bind on 0.0.0.0:30120 - is this address valid and not already in use?
+[ citizen-server-impl] 
+║              STDERR║ Fatal Error: Could not bind on 0.0.0.0:30120 - is this address valid and not already in use?
+║             TXADMIN║ Restarting server: Server process close detected.
+
+║             TXADMIN║ ================================================================
+║             TXADMIN║ ======== [22828] FXServer Starting - ١١‏/٢‏/١٤٤٧ هـ في ٥:١٨:١١ ص
+║             TXADMIN║ ================================================================
+[                 cmd] No such config file: resources/vMenu/permissions.cfg
+[           resources] Scanning resources.
+[           resources] Found 3 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v8.0.1 threads and commands set up. All Ready.
+║              STDERR║ Fatal Error: Could not bind on 0.0.0.0:30120 - is this address valid and not already in use?
+[           resources] Started resource monitor
+[      net-tcp-server] Listening on socket failed - libuv error EADDRINUSE.
+[      net-tcp-server] error on connection: address already in use
+[ citizen-server-impl] Error: Could not bind on 0.0.0.0:30120 - is this address valid and not already in use?
+[ citizen-server-impl] 
+║             TXADMIN║ Restarting server: Server boot timed out (P:46s|HB:--|HC:10s).
+║             TXADMIN║ - No successful HeartBeat yet.
+║             TXADMIN║ - No resource currently loading.
+║             TXADMIN║ - Last resource finished loading 46s ago.
+║             TXADMIN║ txaEvent "serverShuttingDown" "{\"delay\":5000,\"author\":\"txAdmin\",\"message\":\"Server restarting (the server needs to be restarted, please reconnect).\"}"
+
+║             TXADMIN║ ================================================================
+║             TXADMIN║ ======== [21532] FXServer Starting - ١١‏/٢‏/١٤٤٧ هـ في ٥:١٩:١٣ ص
+║             TXADMIN║ ================================================================
+[                 cmd] No such config file: resources/vMenu/permissions.cfg
+[           resources] Scanning resources.
+[           resources] Found 3 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v8.0.1 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[ citizen-server-impl] Couldn't find resource sessionmanager.
+[    c-resources-core] Could not find dependency yarn for resource screenshot-basic.
+[ citizen-server-impl] Couldn't start resource screenshot-basic.
+[    c-resources-core] Could not find dependency yarn for resource screenshot-basic.
+[    c-resources-core] Could not start dependency screenshot-basic for resource hackdetect.
+[ citizen-server-impl] Couldn't start resource hackdetect.
+[ citizen-server-impl] Couldn't find resource mapmanager.
+[ citizen-server-impl] Couldn't find resource chat.
+[ citizen-server-impl] Couldn't find resource spawnmanager.
+[ citizen-server-impl] Couldn't find resource hardcap.
+[ citizen-server-impl] Couldn't find resource fivem.
+[ citizen-server-impl] Couldn't find resource playernames.
+[                 cmd] No such config file: resources/vMenu/permissions.cfg
+[ citizen-server-impl] Couldn't find resource vMenu.
+[ citizen-server-main] Warning: The players.json endpoint has been modified to no longer return the player identifiers without authentication.
+[ citizen-server-main] To learn more about this change read our announcement at https://aka.cfx.re/players-json-privacy
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://omar-abdullah-alsheh-ymxdv5.users.cfx.re/
+[ citizen-server-impl] Server list query returned an error: System.Net.Sockets.SocketException: Host is unreachable <- System.Net.Http.HttpRequestException: Host is unreachable (142.154.61.100:30120)
+║             TXADMIN║ ================================================================
+║             TXADMIN║ ======== [24068] FXServer Starting - ١١‏/٢‏/١٤٤٧ هـ في ٧:٣٣:٤٦ ص
+║             TXADMIN║ ================================================================
+[           resources] Scanning resources.
+[     resources:vMenu] Warning: vMenu does not have a resource manifest (fxmanifest.lua)
+[           resources] Found 4 resources.
+[           resources] 1 warning was encountered.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v8.0.1 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[    c-resources-core] Could not find dependency yarn for resource screenshot-basic.
+[ citizen-server-impl] Couldn't start resource screenshot-basic.
+[    c-resources-core] Could not find dependency yarn for resource screenshot-basic.
+[    c-resources-core] Could not start dependency screenshot-basic for resource hackdetect.
+[ citizen-server-impl] Couldn't start resource hackdetect.
+[ citizen-server-impl] Couldn't find resource vMenu-v3.7.0.
+[ citizen-server-main] Warning: The players.json endpoint has been modified to no longer return the player identifiers without authentication.
+[ citizen-server-main] To learn more about this change read our announcement at https://aka.cfx.re/players-json-privacy
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://omar-abdullah-alsheh-ymxdv5.users.cfx.re/
+[ citizen-server-impl] sync thread hitch warning: timer interval of 108 milliseconds
+[ citizen-server-impl] Server list query returned an error: System.Net.Sockets.SocketException: Connection refused <- System.Net.Http.HttpRequestException: Connection refused (142.154.61.100:30121)
+[ citizen-server-impl] Server list query returned an error: System.Net.Sockets.SocketException: Connection refused <- System.Net.Http.HttpRequestException: Connection refused (142.154.61.100:30121)
+[ citizen-server-impl] Server list query returned an error: System.Net.Sockets.SocketException: Connection refused <- System.Net.Http.HttpRequestException: Connection refused (142.154.61.100:30121)
+[ citizen-server-impl] Server list query returned an error: System.Net.Sockets.SocketException: Connection refused <- System.Net.Http.HttpRequestException: Connection refused (142.154.61.100:30122)
+║             TXADMIN║ ================================================================
+║             TXADMIN║ ======== [14392] FXServer Starting - ١١‏/٢‏/١٤٤٧ هـ في ١٠:٥٢:١١ ص
+║             TXADMIN║ ================================================================
+[                 cmd] No such config file: resources/admin/vMenu/config/permissions.cfg
+[           resources] Scanning resources.
+[           resources] Found 3 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v8.0.1 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[    c-resources-core] Could not find dependency yarn for resource screenshot-basic.
+[    c-resources-core] Could not start dependency screenshot-basic for resource hackdetect.
+[ citizen-server-impl] Couldn't start resource hackdetect.
+[    c-resources-core] Could not find dependency yarn for resource screenshot-basic.
+[ citizen-server-impl] Couldn't start resource screenshot-basic.
+[ citizen-server-impl] Couldn't find resource vMenu.
+[                 cmd] No such config file: resources/admin/vMenu/config/permissions.cfg
+[ citizen-server-main] Warning: The players.json endpoint has been modified to no longer return the player identifiers without authentication.
+[ citizen-server-main] To learn more about this change read our announcement at https://aka.cfx.re/players-json-privacy
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://omar-abdullah-alsheh-ymxdv5.users.cfx.re/
+[ citizen-server-impl] Server list query returned an error: System.Net.Sockets.SocketException: Connection refused <- System.Net.Http.HttpRequestException: Connection refused (142.154.61.100:30122)
